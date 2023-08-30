@@ -5,7 +5,7 @@ Hola bot is a 3- wheeled holonomic drive robot which can control all three degre
 
 | Complete Hola Bot               | Infinity Symbol               |
 | ---------------------- | ---------------------- |
-|https://github.com/NarenOO3/HolaBot/assets/98276114/a756ce81-f39d-4ce2-9923-da0e97ca74d5| [![dog](images/dog.png)](https://github.com/NarenOO3/HolaBot/assets/98276114/4b2ce358-d221-415d-9932-d4c478116c63) |
+|https://github.com/NarenOO3/HolaBot/assets/98276114/a756ce81-f39d-4ce2-9923-da0e97ca74d5|(https://github.com/NarenOO3/HolaBot/assets/98276114/4b2ce358-d221-415d-9932-d4c478116c63) |
 
 # **Skills Learned :**
 Linux, ROS, Gazebo, Solid Modeling, Python Programming, Arduino & C programming

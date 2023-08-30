@@ -1,6 +1,5 @@
 # HolaBot...
-Hola bot is a 3- wheeled holonomic drive robot which can control all three degrees of freedom possible on a plane (Translation along the x and y-axis and rotation along the z-axis). Ultimately, we were required to create a Hola bot to draw complex art in the given plane. We did this Project as a team of four People for a competition called [eyantra][1]\
-[1]:https://portal.e-yantra.org/
+Hola bot is a 3- wheeled holonomic drive robot which can control all three degrees of freedom possible on a plane (Translation along the x and y-axis and rotation along the z-axis). Ultimately, we were required to create a Hola bot to draw complex art in the given plane. We did this Project as a team of four People for a competition called [eyantra](https://portal.e-yantra.org/)
 # Video Demo (fast-forwarded)...
 
 **Complete Hola Bot   **     

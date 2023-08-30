@@ -29,7 +29,7 @@ Then we will feed the picture that we like to draw as a contour and get the coor
 
 The Speed values in Esp32 will be send to ATmega2560 via hardware serial communication and Atmega2560 will control the stepper motors via A4988 Stepper Drivers.
 
-# Design Pictures ( done in Autocad)
+# Design Pictures (done in Fusion 360)
 | |         |
 | ---------------------- | ---------------------- |
 | ![Chassis body final new v20](https://github.com/NarenOO3/HolaBot/assets/98276114/d6dfaf7d-8c1b-4661-a664-0bbec103347b) | ![Chassis body final new v23](https://github.com/NarenOO3/HolaBot/assets/98276114/599df86f-f6e3-43e0-8a8d-94ee1298e7e1) |

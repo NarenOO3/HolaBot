@@ -1,0 +1,1 @@
+avrdude -Cavrdude.conf -v -patmega2560 -cstk500v1 -PCOM15 -b19200 -e -Ulock:w:0x3F:m -Uefuse:w:0xFF:m -Uhfuse:w:0xD8:m -Ulfuse:w:0xFF:m

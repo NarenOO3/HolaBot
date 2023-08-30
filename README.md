@@ -3,8 +3,16 @@ Hola bot is a 3- wheeled holonomic drive robot which can control all three degre
 
 # Video Demo...
 
+
+
+https://github.com/NarenOO3/HolaBot/assets/98276114/4b2ce358-d221-415d-9932-d4c478116c63
+
+
+
+
+
 # **Skills Learned :**
-Linux, ROS, Solid Modeling, Python Programming, Arduino & C programming
+Linux, ROS, Gazebo, Solid Modeling, Python Programming, Arduino & C programming
 
 # **Working Principle**
 **Flow Chart**
@@ -17,7 +25,16 @@ Initially the over Headcamera detect the aruco markers in the canvas and the aru
 | ---------------------- | ---------------------- |
 | ![arena hola](https://github.com/NarenOO3/HolaBot/assets/98276114/e36fe4da-5eea-429b-982b-1ab001aa1460) | ![Hola bot and aruco markers](https://github.com/NarenOO3/HolaBot/assets/98276114/bddef082-c0a0-4953-84fb-bef05edb1719) |
 
-Then we will feed the picture that we like to draw as a contour and get the coordinates of the points in the contour where the holabot will draw and Using PID controller script,which subcribe the coordinates data of holabot for Over headcamera detection script, the Speed for the three stepper motor is decided which is sent to esp32 in the hola bot via **wifi** through Socket Programming.
+Then we will feed the picture that we like to draw as a contour and get the coordinates of the points in the contour which the holabot will draw and Using PID controller script,which subcribe the coordinates data of holabot for Over headcamera detection script, the Speed for the three stepper motor is decided which is sent to esp32 in the hola bot via **wifi** through Socket Programming.
 
 The Speed values in Esp32 will be send to ATmega2560 via hardware serial communication and Atmega2560 will control the stepper motors via A4988 Stepper Drivers.
+
+# Design Pictures ( done in Autocad)
+| |         |
+| ---------------------- | ---------------------- |
+| ![Chassis body final new v20](https://github.com/NarenOO3/HolaBot/assets/98276114/d6dfaf7d-8c1b-4661-a664-0bbec103347b) | ![Chassis body final new v23](https://github.com/NarenOO3/HolaBot/assets/98276114/599df86f-f6e3-43e0-8a8d-94ee1298e7e1) |
+
+# Gazebo Simulation Video
+https://github.com/NarenOO3/HolaBot/assets/98276114/66dbb890-16b2-4fda-85fd-7b0090c1bab6
+
 

@@ -25,7 +25,7 @@ Initially the over Headcamera detect the aruco markers in the canvas and the aru
 | ---------------------- | ---------------------- |
 | ![arena hola](https://github.com/NarenOO3/HolaBot/assets/98276114/e36fe4da-5eea-429b-982b-1ab001aa1460) | ![Hola bot and aruco markers](https://github.com/NarenOO3/HolaBot/assets/98276114/bddef082-c0a0-4953-84fb-bef05edb1719) |
 
-Then we will feed the picture that we like to draw as a contour and get the coordinates of the points in the contour which the holabot will draw and Using PID controller script,which subcribe the coordinates data of holabot for Over headcamera detection script, the Speed for the three stepper motor is decided which is sent to esp32 in the hola bot via **wifi** through Socket Programming.
+Then we will feed the picture that we like to draw as a contour and get the coordinates of the points in the contour which the holabot will draw and Using PID controller script,which subcribe the coordinates data of holabot from Over headcamera detection script, the Speed for the three stepper motor is decided which is sent to ESP32 in the hola bot via **wifi** through Socket Programming.
 
 The Speed values in Esp32 will be send to ATmega2560 via hardware serial communication and Atmega2560 will control the stepper motors via A4988 Stepper Drivers.
 
